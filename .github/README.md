@@ -8,6 +8,8 @@ More detailed instructions can be found [here]('https://docs.github.com/en/repos
 ## After the repository has been created
 You will need to make changes to some of the placeholder content in the files in your new repository. See more instructions in the README file in the new repository.
 
+[![Test](https://github.com/reproducibleMATLAB/matlab-project-template/actions/workflows/test.yaml/badge.svg)](https://github.com/reproducibleMATLAB/matlab-project-template/actions/workflows/test.yaml)
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
