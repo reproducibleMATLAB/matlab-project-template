@@ -2,7 +2,7 @@
   "projectName": "matlab-project-template",
   "projectOwner": "reproducibleMATLAB",
   "files": [
-    "README.md"
+    ".github/README.md"
   ],
   "commitType": "docs",
   "commitConvention": "angular",
