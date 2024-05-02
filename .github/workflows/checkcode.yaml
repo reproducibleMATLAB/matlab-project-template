@@ -13,16 +13,34 @@ concurrency:
     ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
 
 jobs:
-  checkcode:
+  directories:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
 
+      - name: Get directories
+        id: directories
+        run: >-
+          echo directories=$(find . -type d -mindepth 1 -not -path '*/\.*' | sed
+          's/.\///' | tr '\n' ',' | sed 's/,$//') >> $GITHUB_OUTPUT
+    outputs:
+      dirs: ${{ steps.directories.outputs.directories }}
+
+  checkcode:
+    needs: directories
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        dir: ${{ fromJson(needs.directories.outputs.dirs) }}
+    steps:
       - name: Set up MATLAB
         uses: matlab-actions/setup-matlab@v2
 
-      - name: Run command
+      - name: Move into $dir directory
+        run: cd $dir
+
+      - name: Run MATLAB Command
         uses: matlab-actions/run-command@v2
         with:
           command: mlintrpt
