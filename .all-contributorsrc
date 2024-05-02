@@ -1,4 +1,23 @@
 {
   "projectName": "matlab-project-template",
-  "projectOwner": "reproducibleMATLAB"
+  "projectOwner": "reproducibleMATLAB",
+  "files": [
+    ".github/README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "gvbhalerao591",
+      "name": "Gaurav Bhalerao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34817097?v=4",
+      "profile": "https://github.com/gvbhalerao591",
+      "contributions": [
+        "ideas",
+        "content",
+        "code"
+      ]
+    }
+  ]
 }
