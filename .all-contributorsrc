@@ -29,6 +29,16 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "cmtso",
+      "name": "Michael Tso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37928699?v=4",
+      "profile": "https://cmtso.github.io",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ]
 }
