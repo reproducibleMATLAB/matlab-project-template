@@ -5,8 +5,7 @@
 ## TODO Upon Project Creation
 
 - [ ] Update `PROJECT-NAME` in this file
-- [ ] Update in `<YEAR>` and `<FULL-NAME>` placeholders in the `LICENSE.txt`
-      file
+- [ ] Update in `<YEAR>` and `<FULL-NAME>` placeholders in `LICENSE.txt` file
 - [ ] Update `CITATION.cff` file
   - [ ] `<AUTHOR-FAMILY-NAME>`
   - [ ] `<AUTHOR-GIVEN-NAME>`
@@ -15,7 +14,7 @@
   - [ ] `<PROJECT-DOI>`
   - [ ] `<GITHUB-ORGANISATION>`
   - [ ] `<GITHUB-ORGANISATION>`
-- Change links or mention of username or `PROJECT-NAME` in this file.
+- [ ] Update `CONTACT-METHOD` in the `CODE_OF_CONDUCT.md` file
 
 ## Installation
 
