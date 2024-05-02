@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: <AUTHOR-FAMILY-NAME>
+    given-names: <AUTHOR-GIVEN-NAME>
+    orcid: https://orcid.org/<AUTHOR-ORCID>
+title: <PROJECT-NAME>
+doi: <PROJECT-DOI>
+url: https://github.com/<GITHUB-ORGANISATION>/<GITHUB-REPOSITORY>
