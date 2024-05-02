@@ -3,7 +3,7 @@
 classdef mainTest < matlab.unittest.TestCase
     methods(Test)
         function func1(testCase)
-            % 
+            %
             % your code here
             %
         end
@@ -15,4 +15,3 @@ classdef mainTest < matlab.unittest.TestCase
         end
     end
 end
-            
