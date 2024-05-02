@@ -26,7 +26,7 @@ First, clone this repository:
 git clone https://github.com/<username>/<PROJECT-NAME>.git
 cd <PROJECT-NAME>
 ```
-Alternatively, download the code as a .zip folder by going clicking the "Code" button on GitHub.
+Alternatively, download the code as a .zip folder by clicking the "Code" button on GitHub.
 
 
 ## Contributing
