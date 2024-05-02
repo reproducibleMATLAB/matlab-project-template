@@ -1,5 +1,5 @@
 # matlab-project-template
-This is a template repository you can use for your MALAB software project. It pre-populates essentials files and file structure when you use this template to create the repository of your project.
+This is a template repository you can use for your MATLAB software project. It pre-populates essential files and directory structure when you use this template to create the repository for your project.
 
 # Getting started
 Click **Use this template**, then select **Create a new repository** and then fill in the essential information for your repository. Then a repository that utilises this template will be created for you.
