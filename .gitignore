@@ -29,3 +29,6 @@ codegen/
 
 # Octave session info
 octave-workspace
+
+# dstore from mac
+.DS_Store
