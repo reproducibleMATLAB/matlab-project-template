@@ -1,13 +1,4 @@
 {
   "projectName": "matlab-project-template",
-  "projectOwner": "reproducibleMATLAB",
-  "files": [
-    ".github/README.md"
-  ],
-  "commitType": "docs",
-  "commitConvention": "angular",
-  "contributorsPerLine": 7,
-  "contributors": []
-    }
-  ]
+  "projectOwner": "reproducibleMATLAB"
 }
