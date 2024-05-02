@@ -15,7 +15,7 @@
   - [ ] `<PROJECT-DOI>`
   - [ ] `<GITHUB-ORGANISATION>`
   - [ ] `<GITHUB-ORGANISATION>`
-- Change links or mention of username or  `PROJECT-NAME` in this file.
+- Change links or mention of username or `PROJECT-NAME` in this file.
 
 ## Installation
 
