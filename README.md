@@ -31,8 +31,8 @@ on GitHub.
 
 ## Contributing
 
-<PROJECT-NAME> <!-- markdownlint-disable-line MD033 --> is an open-source
-project and we welcome contributions from the community.
+<PROJECT-NAME> is an open-source <!-- markdownlint-disable-line MD033 -->
+project, and we welcome contributions from the community.
 
 If you'd like to contribute, please fork the repository and make changes as
 you'd like. Pull requests are warmly welcome.
