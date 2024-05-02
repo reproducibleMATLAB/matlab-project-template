@@ -1,4 +1,23 @@
 {
   "projectName": "matlab-project-template",
-  "projectOwner": "reproducibleMATLAB"
+  "projectOwner": "reproducibleMATLAB",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "paddyroddy",
+      "name": "Patrick J. Roddy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15052188?v=4",
+      "profile": "https://paddyroddy.github.io",
+      "contributions": [
+        "ideas",
+        "content",
+        "code"
+      ]
+    }
+  ]
 }
