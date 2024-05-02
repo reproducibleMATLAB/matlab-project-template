@@ -1,9 +1,7 @@
 {
   "projectName": "matlab-project-template",
   "projectOwner": "reproducibleMATLAB",
-  "files": [
-    ".github/README.md"
-  ],
+  "files": [".github/README.md"],
   "commitType": "docs",
   "commitConvention": "angular",
   "contributorsPerLine": 7,
@@ -13,55 +11,35 @@
       "name": "Gaurav Bhalerao",
       "avatar_url": "https://avatars.githubusercontent.com/u/34817097?v=4",
       "profile": "https://github.com/gvbhalerao591",
-      "contributions": [
-        "ideas",
-        "content",
-        "code"
-      ]
+      "contributions": ["ideas", "content", "code"]
     },
     {
       "login": "paddyroddy",
       "name": "Patrick J. Roddy",
       "avatar_url": "https://avatars.githubusercontent.com/u/15052188?v=4",
       "profile": "https://paddyroddy.github.io",
-      "contributions": [
-        "ideas",
-        "content",
-        "code"
-      ]
+      "contributions": ["ideas", "content", "code"]
     },
     {
       "login": "dc2917",
       "name": "Dan Cummins",
       "avatar_url": "https://avatars.githubusercontent.com/u/45606273?v=4",
       "profile": "https://dc2917.github.io",
-      "contributions": [
-        "ideas",
-        "content",
-        "code"
-      ]
+      "contributions": ["ideas", "content", "code"]
     },
     {
       "login": "cmtso",
       "name": "Michael Tso",
       "avatar_url": "https://avatars.githubusercontent.com/u/37928699?v=4",
       "profile": "http://cmtso.github.io",
-      "contributions": [
-        "ideas",
-        "content",
-        "code"
-      ]
+      "contributions": ["ideas", "content", "code"]
     },
     {
       "login": "davidwilby",
       "name": "David Wilby",
       "avatar_url": "https://avatars.githubusercontent.com/u/24752124?v=4",
       "profile": "http://davidwilby.dev",
-      "contributions": [
-        "ideas",
-        "content",
-        "code"
-      ]
+      "contributions": ["ideas", "content", "code"]
     }
   ]
 }
