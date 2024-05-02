@@ -1,4 +1,12 @@
 # matlab-project-template
+This is a template repository you can use for your MALAB software project. It pre-populates essentials files and file structure when you use this template to create the repository of your project.
+
+# Getting started
+Click **use this template** and then select **Create a new repository** and then fill in essential information for your repository. Then a repository that utilizes this template will be created for you.
+More detailed instructions can be found [here]('https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template').
+
+# After the repository is being created
+You will need to make changes to some of the pre-created files in your new repository. See more instructions in the README file in the new repository.
 
 ## Contributors
 
