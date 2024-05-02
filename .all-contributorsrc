@@ -1,4 +1,23 @@
 {
   "projectName": "matlab-project-template",
-  "projectOwner": "reproducibleMATLAB"
+  "projectOwner": "reproducibleMATLAB",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "davidwilby",
+      "name": "David Wilby",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24752124?v=4",
+      "profile": "http://davidwilby.dev",
+      "contributions": [
+        "ideas",
+        "content",
+        "code"
+      ]
+    }
+  ]
 }
