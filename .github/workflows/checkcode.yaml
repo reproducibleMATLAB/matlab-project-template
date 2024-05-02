@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        directory: ${{ fromJson(needs.directories.outputs.directories) }}
+        directory: ${{ needs.directories.outputs.directories }}
     steps:
       - name: Set up MATLAB
         uses: matlab-actions/setup-matlab@v2
