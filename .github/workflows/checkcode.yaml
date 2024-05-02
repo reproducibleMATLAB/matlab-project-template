@@ -22,9 +22,8 @@ jobs:
       - name: Get directories
         id: directories
         run: >-
-          echo "directories=[$(find . -type d -mindepth 1 -not -path '*/\.*' |
-          sed 's/^..//' | sed -z 's/\n/, /g' | sed 's/, $//')]" >>
-          $GITHUB_OUTPUT
+          echo directories=$(ind . -type d -mindepth 1 -not -path '*/\.*' | sed
+          's/^..//' | jq -R -s -c 'split("\n")[:-1]') >> $GITHUB_OUTPUT
     outputs:
       directories: ${{ steps.directories.outputs.directories }}
 
