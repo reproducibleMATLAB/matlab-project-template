@@ -1,5 +1,8 @@
 # matlab-project-template
 
+## TODO Upon Project Creation
+
+- [ ] Fill in `<YEAR>` and `<FULL-NAME>` placeholders in the `LICENSE.txt` file
 
 ## Contributors
 
