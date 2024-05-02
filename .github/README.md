@@ -1,5 +1,7 @@
 # matlab-project-template
 
+[![Test](https://github.com/reproducibleMATLAB/matlab-project-template/actions/workflows/test.yaml/badge.svg)](https://github.com/reproducibleMATLAB/matlab-project-template/actions/workflows/test.yaml)
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
