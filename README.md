@@ -1,6 +1,6 @@
 # PROJECT-NAME
-(Add one line summary of what it does)
 
+(Add one line summary of what it does)
 
 ## TODO Upon Project Creation
 
@@ -20,21 +20,24 @@
 
 First, clone this repository:
 
-```
-# Clone this repository
+```sh
 git clone https://github.com/<username>/<PROJECT-NAME>.git
 cd <PROJECT-NAME>
 ```
-Alternatively, download the code as a .zip folder by clicking the "Code" button on GitHub.
 
+Alternatively, download the code as a .zip folder by clicking the "Code" button
+on GitHub.
 
 ## Contributing
 
-<PROJECT-NAME> is an open-source project and we welcome contributions from the community.
+<PROJECT-NAME> is an open-source <!-- markdownlint-disable-line MD033 -->
+project, and we welcome contributions from the community.
 
-If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
+If you'd like to contribute, please fork the repository and make changes as
+you'd like. Pull requests are warmly welcome.
 
 ### Our Contributors
+
 <a href="https://github.com/reproducibleMATLAB/matlab-project-template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=reproducibleMATLAB/matlab-project-template" />
 </a>
