@@ -34,11 +34,14 @@ jobs:
       matrix:
         directory: ${{ fromJson(needs.directories.outputs.directories) }}
     steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
       - name: Set up MATLAB
         uses: matlab-actions/setup-matlab@v2
 
       - name: Move into ${{ matrix.directory }} directory
-        run: cd ${{ matrix.directory }}
+        run: cd ${{ github.workspace }}/${{ matrix.directory }}
 
       - name: Run MATLAB Command
         uses: matlab-actions/run-command@v2
